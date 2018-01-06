@@ -20,10 +20,13 @@ The file path comes first! That file can be a simple textfile (.txt).
 ## Command-line arguments
 
 * -printMatrix
+
 Prints the **playfield** onto the console.
 * -printStack
+
 At the end of the program this option prints the remaining elements onto stack.
 * -noExit
+
 By default all occurs error messages will exit the program/interpreter.
 With the option **-noExit** certain error messages will don't exit the program. 
 
