@@ -7,9 +7,12 @@ in this repository. This interpreter is full portable as jar-file.
 ## Use of the interpreter
 
 Under Linux you needed made the jar-file executable.
+
 ``` chmod +x befunge93.jar ```
+
 For running the interpreter you needed type. 
 ``` befunge93.jar test.txt ```
+
 or under linux
 ``` ./befunge93.jar test.txt ```
 
