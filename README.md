@@ -18,7 +18,7 @@ or under linux
 
 ## Important
 
-The file path comes first! That file can be a simple textfile (.txt).
+The file path comes first! That file must be a simple textfile (.txt).
 
 ## Command-line arguments
 
