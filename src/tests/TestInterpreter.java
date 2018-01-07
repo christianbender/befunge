@@ -1,6 +1,7 @@
 /*
  * author: Christian Bender
- * date:
+ * date: 07.01.2018
+ * class: TestInterpreter
  * 
  * This file contains a test suite for the befunge-interpreter.
  */

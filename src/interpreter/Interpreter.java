@@ -1,6 +1,7 @@
 /*
  * author: Christian Bender
- * date:
+ * date: 07.01.2018
+ * class: Interpreter
  * 
  * This is a Befunge-93 interpreter for the command-line.
  */
@@ -16,7 +17,6 @@ import java.util.Scanner;
 import java.util.Stack;
 import java.util.Vector;
 import java.util.regex.Pattern;
-
 
 public class Interpreter {
 	
