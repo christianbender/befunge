@@ -68,6 +68,12 @@ public class Interpreter {
 	        	case "-noExit":
 	        		isExit = false;
 	        		break;
+	        	default: // error case
+	        		if (!Pattern.matches("([a-zA-Z]:(\\w+)*\\[a-zA-Z0_9]+)?.txt|\\w+.txt",
+	        				option)) {
+	        			System.out.println("Unknow option --> " + option);
+	        		}
+	        		break;
 	        	}
 	        }
 	        
